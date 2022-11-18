@@ -4,7 +4,7 @@ This is simple, challenge from [Frontend Mentor site](https://www.frontendmentor
 
 I built this code using HTML, CSS and FlexBox.
 
-If you want to see live site click [here]()
+If you want to see live site click [here](https://tytan01.github.io/QR-code-component/)
 
 ## Process
 I started by creating a "container" where I placed all the visible elements of the website. Secondly I added QR code image, later I stepped into CSS code, where I configured everything to resemble the design.
